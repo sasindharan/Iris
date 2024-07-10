@@ -1,0 +1,8 @@
+Pandas
+Numpy
+Flask
+Joblib
+Pickle
+Python
+sklearn
+KNearestNeighbors
